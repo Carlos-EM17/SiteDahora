@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+
+<head>
+<body style="background-color: #6495ED;">
+
+   <title>Site dahora</title>
+
+      <h1 style="color: #FFF8DC; background-color: #00008B;">Cultura</h1>
+      <h2>Cadastre-se Para ser Hackeado:)</h2>
+      <input type="email" placeholder="Email">
+      <br>
+      <input type="password" placeholder="Senha"
+      <br>
+      <input type="color" placeholder="Cor"
+      <br>
+      <input placeholder="Radio"
+      <br>
+      <p style="color: Black;">
+      Eu tava com meus mano<br>
+      la na minha quebrada<br>
+      chego o <em>vanderlei</em><br>
+      que veio da ideia errada
+</p>
+<button><a href="https://www.youtube.com/watch?v=yphYAaL_TJs&t=14s"><b>musica acima</b></a></button>
+<img src="file:///C:/Users/user/Desktop/Foto123.png.jpg" weight = "100" height="100">
+<ul>
+  <ol>
+  <li><a href="https://www.cifraclub.com.br/">site bam</a></li>
+  </ol>
+  <li> brabo </li>
+  <li> sim </li>
+  </ul>
+  <p style="font-family: Courier New;">
+  <h3><b>Sobre O Triangulo de Tenis</b></h3>
+  </p>
+  <ul>
+    <li>Ele é triangular</li>
+    <li>Ele é Foda😎</li>
+    <li>Ele usa Tenis 😱😱</li>
+    <li>ELe</li>
+<p style="font-size: 60px; font-family: Raggedways;">George</p>
+
+  </body>
+
+</html>
